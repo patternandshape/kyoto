@@ -36,6 +36,29 @@
 
 }
 
+.sidebar-widget {
+  width:100%;
+  border:1px solid #000;
+  margin: 0 auto;
+  height:250px;
+  box-shadow: 1px 3px 3px 0 #b5b5b5;
+}
+
+.sidebar-widget-title {
+  height: 35px;
+  border:1px solid #000;
+  border: inset 0 0 10px #0f0;
+}
+
+#email-btn {
+  float:right;
+}
+
+.form-control {
+  width:90%;
+  margin: 0 auto;
+}
+
 .container {
   width:1500px;
   margin:0 auto;
@@ -47,13 +70,12 @@
 }
 
 .sidebar {
-  border:1px solid #000;
   height:1000px;
   float: right;
   width:300px;
 }
 .col-md-3 {
-  border: 1px solid black;
+  border: 1px solid white;
 
 }
 
